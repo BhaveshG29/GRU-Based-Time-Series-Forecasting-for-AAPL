@@ -22,7 +22,7 @@ This is a clean, end-to-end implementation focused on correct engineering practi
 
 Below is the TensorBoard graph visualization of the implemented model:
 
-
+![GRU Model](Architecture.png)
 
 ### Architecture Flow
 
